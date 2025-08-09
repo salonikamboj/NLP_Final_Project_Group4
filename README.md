@@ -18,7 +18,7 @@ We implemented both:
 
 ## How to Run the Notebooks
 
-* Open either NLP baseline model.ipynb or NLP fine-tuned model.ipynb in Jupyter Notebook or Google Colab.
+* Download and upload either NLP baseline model.ipynb or NLP fine-tuned model.ipynb in Jupyter Notebook or Google Colab.
 
 * Make sure to enable GPU runtime if you are running the fine-tuned model (in Colab: Runtime → Change runtime type → GPU).
 
